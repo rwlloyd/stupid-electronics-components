@@ -1,5 +1,7 @@
 # stupid-electronics-components
 
-This is a repository of commonly used electronics components. We'll talk about those later.
+This is a repository of commonly used electronics component symbols and footprints in KiCAD. We'll talk about those later.
 
-In the meantime, 'Plumpot' on the Youtubes has some very nice videos on how to use Kicad symbols and footprints. If you make some of your own, feel free to send a pull request or let me know about them.
+In the meantime, 'Plumpot' on the Youtubes has some very nice videos on how to use Kicad symbols and footprints. 
+
+If you make some of your own, feel free to send a pull request or let me know about them.
